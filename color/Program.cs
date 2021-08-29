@@ -9,19 +9,19 @@ namespace color
             Console.WriteLine("каждый охотник желает знать где сидит фазан");
 
             Console.ForegroundColor = ConsoleColor.Red;
-            Console.Write("");
+            Console.Write("каждый ");
             Console.ForegroundColor = ConsoleColor.DarkYellow;
-            Console.Write("");
+            Console.Write("охотник ");
             Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.Write("");
+            Console.Write("желает ");
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.Write("");
+            Console.Write("знать ");
             Console.ForegroundColor = ConsoleColor.Blue;
-            Console.Write("");
+            Console.Write("где ");
             Console.ForegroundColor = ConsoleColor.DarkBlue;
-            Console.Write("");
+            Console.Write("сидит ");
             Console.ForegroundColor = ConsoleColor.DarkMagenta;
-            Console.Write("");
+            Console.Write("фазан ");
             Console.ResetColor();
 
         }
